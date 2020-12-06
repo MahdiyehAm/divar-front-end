@@ -1,0 +1,26 @@
+/* ----border-bottom  */
+.border_bottom{
+    border-bottom: 1px solid #cccccc;
+  }
+  
+  .widget_img{
+    max-width: 25px;
+    max-height: 25px;
+  }
+  
+  a.paragraph{
+    margin: auto 0;
+    color:#1d1c1c;
+    text-decoration : none
+  }
+  a.paragraph:hover{
+    color:#4d4d4d;
+    text-decoration : none
+  }
+  .borderBottom{
+      border-bottom: 2px solid #cccccc!important;
+      border-top: none!important;
+  }
+  .dividerRow{
+    border-bottom: 1px solid #cccccc
+  }
