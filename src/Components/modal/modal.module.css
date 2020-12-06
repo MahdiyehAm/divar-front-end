@@ -1,0 +1,30 @@
+.modal_container{
+    font-family: Iran-sans;
+}
+.modalListGroup{
+    padding-left: 0!important;
+}
+.borderless{
+    border: none
+}
+.borderBottom{
+    border: none;
+    border-bottom: 2px solid #cccccc;  
+}
+p,a{
+    font-size: 13px;
+    margin: auto 0;
+}
+.textBold p{
+    font-weight: bold;
+    font-size: 15px;
+}
+.linkItem{
+    color: #343a40;
+    text-decoration: none;
+    cursor: pointer;
+}
+.linkItem:hover{
+    color: #343a40;
+    text-decoration: none;
+}

@@ -1,5 +1,13 @@
+@font-face {
+  font-family: Iran-sans;
+  src: url('./static/fonts/IRANSans.ttf');
+}
+
 .App {
-  text-align: center;
+  /* text-align: right;
+  direction: rtl; */
+  font-family: Iran-sans;
+  padding: 20px 0;
 }
 
 .App-logo {
@@ -36,3 +44,4 @@
     transform: rotate(360deg);
   }
 }
+
